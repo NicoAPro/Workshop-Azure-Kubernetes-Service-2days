@@ -7,7 +7,7 @@ env:
   RG_NAME: "RG-AKS-Nico"
   CLUSTER_NAME: "AKS-Nico"
 
-  NAMESPACE: "coolapi-namespace"
+  NAMESPACE: "nico-namespace"
   MYDEPLOYMENT: "coolapi-deployment"
   NAMESERVICE: "coolapi-service"
   MYAPP: "cool-api"
